@@ -1,0 +1,23 @@
+{
+		"schId": 955752868786,
+		"accessSchId": "1_2023-02-27_05_2_JCB5_312101_3",
+		"hosDistId": 182,
+		"hosDistName": "西区",
+		"distAddr": "北京市朝阳区双泉堡甲2号",
+		"deptId": 1329449,
+		"deptName": "(西区)皮肤外科专病门诊",
+		"docId": 50905151,
+		"resNo": 1,
+		"schDate": "02-27",
+		"weekType": "星期一",
+		"startTime": "11:30",
+		"endTime": "18:00",
+		"dayType": 2,
+		"cost": 100,
+		"schLevel": "知名专家号",
+		"state": 0,
+		"numSrcType": 0,
+		"stateShown": "已挂完",
+		"regType": 0,
+		"needChooseFvSv": false
+	}
